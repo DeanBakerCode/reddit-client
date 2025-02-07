@@ -1,1 +1,1 @@
-# reddit-client
+# Codecademy Portfolio Project - Reddit Client
